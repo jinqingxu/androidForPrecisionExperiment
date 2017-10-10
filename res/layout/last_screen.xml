@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+    android:orientation="vertical" >
+    
+
+         
+        <TextView
+        android:id="@+id/txtGoToLogin"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Thank you for completing this block of the 2-D Fitts Task."
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />
+        
+        <TextView
+        android:id="@+id/twoDScore2" 
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your Score is:"
+        
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />
+
+    <TextView
+        android:id="@+id/LastTouchDownAverage"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your touch-down average time is:"
+
+        android:textSize="35sp"
+
+        />
+
+    <TextView
+        android:id="@+id/LastLiftUpAverage"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your lift-up average time is:"
+
+        android:textSize="35sp"
+
+        />
+    
+      <TextView
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Please ask the facilitator to hand you the post-experiment questionnaire sheet"
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />
+ 
+</LinearLayout>

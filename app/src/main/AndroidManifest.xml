@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.precisionexperimentapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"   
+        android:targetSdkVersion="22" />
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.precisionexperimentapp.LoginScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+         <activity android:name="com.example.precisionexperimentapp.FingerCalibInstructions">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibInstructions" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.example.precisionexperimentapp.TwoDCalibTask">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibInstructions" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.TwoDCalibInstructions">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibInstructions" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.TwoDCalibToTwoDTask">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibInstructions" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.example.precisionexperimentapp.FingerCalibTask">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.FingerCalibToTwoDCalib">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.NextBlockFingerCalib">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.TwoDFittsTask">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.precisionexperimentapp.TwoDInstructions">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.example.precisionexperimentapp.LastScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.example.precisionexperimentapp.NextBlockTwoD">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".FFittsAndroidApp.blank">
+            <intent-filter>
+                <action android:name="android.intent.action.FingerCalibTask" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

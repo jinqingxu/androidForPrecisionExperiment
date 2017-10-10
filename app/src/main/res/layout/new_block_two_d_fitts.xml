@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+    android:orientation="vertical" >
+    
+    
+    
+      <TextView
+        android:id="@+id/txtNextBlockTwoD"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Thank you for completing this block of the 2-D Fitts Task."       
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />     
+    
+       <TextView
+        android:id="@+id/twoDScore" 
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your Score is:"
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />
+
+    <TextView
+        android:id="@+id/twoDTouchDownAverage"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your touch-down average time is:"
+
+        android:textSize="35sp"
+
+        />
+
+    <TextView
+        android:id="@+id/twoDLiftUpAverage"
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Your lift-up average time is:"
+
+        android:textSize="35sp"
+
+        />
+
+
+    <TextView
+        
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Please ask the facilitator to guide you to the next block."        
+        android:textSize="35sp"
+        android:layout_marginTop="70dp"
+        />    
+        
+     
+     <!-- 
+     
+       <ImageButton
+
+        android:id="@+id/btnNextBlockTwoD"
+        android:src="@drawable/start_button_blue"
+ 		android:layout_width="60dp"
+        android:layout_height="60dp"        
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp"
+       />
+       
+       <TextView 
+        android:text="2-D Fitts Task"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff1a74ff"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        />
+        
+        
+       
+     <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Please Start a New Block"
+        android:textStyle="bold"
+        android:textSize="16sp" 
+        android:layout_marginTop="20dp"
+        />
+        
+        <Button
+
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:text="Start"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:background="#ff47c3ff"
+        android:textColor="#cb363939"
+        android:layout_marginTop="90dp"
+      
+      />
+      
+       <TextView
+        android:id="@+id/numBlockTwoD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Block # 0"
+        android:textStyle="bold"
+        android:textSize="16sp" 
+        android:layout_marginTop="120dp"
+        />
+      
+        -->
+       
+        
+  
+       
+</LinearLayout>
+

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

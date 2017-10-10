@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/glossy_red_circle.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/glossy_red_circle.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/red_circle.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/red_circle.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/start_button_blue.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/start_button_blue.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/start_button_grey.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/start_button_grey.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/red_circle_7_22.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/red_circle_7_22.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/red_circle_2_44.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/red_circle_2_44.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/white_background.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/white_background.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/red_circle_9_22.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/red_circle_9_22.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/start_button_blue_old.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/start_button_blue_old.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/start_button_grey_old.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/start_button_grey_old.png"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/irene/.android/build-cache/28ca5120441d42c09385f30fbb73128f82942516/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/release/drawable/red_circle_4_88.png",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/drawable/red_circle_4_88.png"
+    }
+]

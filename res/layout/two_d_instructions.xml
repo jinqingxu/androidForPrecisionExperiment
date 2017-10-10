@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#ffffffff"
+    tools:context="com.example.ACTlab.FFittsAndroidApp.LoginScreen">
+
+    <TextView
+        android:text="Two Dimensional Fitts Task"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#ff1a74ff"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:layout_marginTop="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/textView12" />
+
+    <TextView
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="In this task, you need to follow these steps:"
+        android:textSize="30sp"
+        android:id="@+id/textView8"
+
+
+        android:layout_below="@+id/textView12"
+        android:layout_alignLeft="@+id/textView11"
+        android:layout_alignStart="@+id/textView11" />
+
+    <TextView
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="1. When you click on the Start Button, a target (a red circle) will appear on the screen."
+        android:textSize="30sp"
+        android:id="@+id/textView11"
+
+        android:layout_below="@+id/textView8"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_alignStart="@+id/textView10" />
+
+    <TextView
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="2. You will need to select the target on the screen, as quickly, and as accurately as you can."
+        android:textSize="30sp"
+        android:id="@+id/textView10"
+        android:layout_below="@+id/textView11"
+        android:layout_alignLeft="@+id/textView9"
+        android:layout_alignStart="@+id/textView9" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Are You Ready?"
+        android:textStyle="bold"
+        android:textSize="60sp"
+        android:textColor="#ff1a74ff"
+
+        android:id="@+id/textView13"
+
+
+        android:layout_marginTop="350dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="850dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="If you have any question, please ask the facilitator before you start."
+        android:textSize="30sp"
+        android:id="@+id/textView9"
+        android:layout_below="@+id/textView13"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+
+        android:id="@+id/goToTwoD"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:text="YES"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:background="#ff47c3ff"
+        android:textColor="#cb363939"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

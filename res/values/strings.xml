@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotionTrackApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to FFitts Experiment</string>
+    <string name="enter_instructions">Please Enter your Participant ID</string>
+    <string name="login">Login</string>
+    <string name="finger_calibration_task">Finger Calibration Task</string>
+    
+    <string name="questions_ask">If you have any question, please ask the facilitator before you start.</string>
+    <string name="ready">Are You Ready?</string>
+    <string name="finger_calib_task">In this task, you need to select the target (a red circle) on the screen, as quickly and as accurately as you can.</string>
+    <string name="finger_twoD_calib_task">In this task, you need to select the target (a red cross) on the screen, as quickly and as accurately as you can.</string>
+    <string name="yes">YES</string>
+    <string name="thank_you_finger_calib">Thank you for completing this block of the Finger Calibration Task.</string>
+    <string name="your_score_is">Your Score is:</string>
+    <string name="next_block">Please ask the facilitator to guide you to the next block.</string>
+    <string name="please_ask_the_facilitator_to_hand_you_the_digit_symbol_substitution_test">Please ask the facilitator to hand you the Digit Symbol Substitution Test.</string>
+    
+</resources>

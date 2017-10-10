@@ -1,0 +1,7 @@
+#Sat Oct 07 14:54:54 EDT 2017
+base.0=/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_987b5c33bdc2a9f333e781590f68fd75583606a0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_873951df3ac01b52ac3c41f718a7bb93cc0ccb72/classes.dex
+base.1=/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_873951df3ac01b52ac3c41f718a7bb93cc0ccb72
+file.0=/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_987b5c33bdc2a9f333e781590f68fd75583606a0/classes.dex

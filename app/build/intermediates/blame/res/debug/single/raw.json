@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/debug/raw/right.wav",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/raw/right.wav"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/debug/raw/count.mp3",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/raw/count.mp3"
+    },
+    {
+        "merged": "/Users/irene/Desktop/Precision Experiment/app/build/intermediates/res/merged/debug/raw/wrong.wav",
+        "source": "/Users/irene/Desktop/Precision Experiment/app/src/main/res/raw/wrong.wav"
+    }
+]

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cfc0e90bd701252a844f7612bc1e13ef0d63296b">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a78ac128c54d331569bbff0644d42dab9d534056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_f627c416ab12b932eb804a13765c6499d88b77ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_43cb5328356af3b4cd81173c54b17a4a908b67b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_987b5c33bdc2a9f333e781590f68fd75583606a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/commons-net-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-net-3.0.1_c46a4c852d07d4f6554ff940914b31be41cf3d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05627b5bbe89b416191b33a7aa6d51cee79b7d80">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efd2781150c00d18bd5a5df6f00b2243a63866e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_016c9fb94f69fd83e1b35486c55f45afc4e85222/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/activation_b2b2a4c690c4aae22e24a9db77f7b729af45fecf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/LeapJava.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e128779251f00f5fdf83161818a70dfb67264d10">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/LeapJava_6ca44699d33c1ff29c05d3d8ab25058d0128c61b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_67e3863be081dd1bb192b8395e954fbe49417dee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d05c86ce7d20a8610aeb79e8477b30724cc3970a">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_873951df3ac01b52ac3c41f718a7bb93cc0ccb72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_1ddd427aed3a0d3498ce24606122a47f8f717ec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/LeapJava.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e128779251f00f5fdf83161818a70dfb67264d10">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/LeapJava_7341a8adefd0b3907241d6d0a257805c847496d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/LeapJava.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e128779251f00f5fdf83161818a70dfb67264d10">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/LeapJava_6ca44699d33c1ff29c05d3d8ab25058d0128c61b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/commons-net-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-net-3.0.1_0cc1505a164cfde9dd9c4b0a830323cd22efa373/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/commons-net-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/commons-net-3.0.1_0cc1505a164cfde9dd9c4b0a830323cd22efa373.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/commons-net-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-net-3.0.1_460ad6fc1c7f4f36b8239016134de9b780d40b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/additionnal_a1b033e03a77c749be64e0269b56a1a18e909abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/mail_cdaf5a62b41af1ed027d29b52777808f4eff2501.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_a1b033e03a77c749be64e0269b56a1a18e909abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_5752173781c2184133830aad6942b73f2f4ccffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_cdaf5a62b41af1ed027d29b52777808f4eff2501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_b2b2a4c690c4aae22e24a9db77f7b729af45fecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_292f44d208d75dd0257e8b99261700bda6096965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_d443de369d8bbc99cb66200cbfcd3bd8fd4966d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_74bdb267e3ce8e9b808e0d6d098a1cf763ee4a3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8de8b105ae5b7aa48cf678e60e3aaa6dbc66fc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/CrossHair Experiment/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_13bd0266c3c794e6505ce134c93fe04c264d5d80/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irene/Desktop/Precision Experiment/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/irene/Desktop/Precision Experiment/app/build/intermediates/pre-dexed/release/volley_292f44d208d75dd0257e8b99261700bda6096965.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irene/Desktop/Experiment Software/app/libs/LeapJava.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e128779251f00f5fdf83161818a70dfb67264d10">
+        <dex dex="/Users/irene/Desktop/Experiment Software/app/build/intermediates/transforms/dex/debug/folders/1000/2/LeapJava_f5e42ebf503e8a111bafe386af1a6590ba8d6716/classes.dex" />
+    </item>
+
+</items>
